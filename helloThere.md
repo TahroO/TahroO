@@ -3,7 +3,7 @@
       
       
 - 👀 I’m interested in  {
-       gaming, computers, cooking, learn to code and writing way too long german texts
+       gaming, computers, cooking, learn to code, doing Blender and writing way too long german texts
       }
 
 - 🌱 I’m currently learning {
