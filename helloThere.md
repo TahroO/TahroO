@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @TahroO - 
-       Bachelor-Student in my first Semester @ the HTW - Berlin. My subject of study is 'international media informatics'.
+       Bachelor-Student @ the HTW - Berlin. My subject of study is 'international media & computing'.
       
       
 - 👀 I’m interested in  {
-       gaming, computers, cooking, learn to code, doing Blender and writing way too long german texts
+       gaming, hardware, cooking, doing Blender and writing way too long text
       }
 
 - 🌱 I’m currently learning {
-      Java, PHP, html, CSS
+      Java, Python, JavaScript html, CSS
       }
       
 
